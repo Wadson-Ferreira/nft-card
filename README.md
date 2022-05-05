@@ -14,7 +14,7 @@ Esta é uma solução para o [desafio do componente de cartão de visualização
     - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
     - [Recursos úteis](#recursos-úteis)
 - [Autor](#autor)
-- [Gradecimentos](#agradecimentos)
+- [Agradecimentos](#agradecimentos)
 ---
 
 ## Visão Geral
